@@ -1,6 +1,5 @@
 import java.util.Scanner;
         import java.util.concurrent.TimeUnit;
-
 public class FindYourNumber {
     private static Scanner scanner = new Scanner(System.in);
 
